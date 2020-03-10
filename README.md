@@ -1,4 +1,4 @@
-# README: Scripts for Erb et al. 2020, Science Advances
+# README: Scripts for Erb et al. 2020, Science Advances (in press)
 
 This directory contains the Python 3 scripts I used to produce the figures in Erb et al. 2020, "Atmospheric Dynamics Drive Most Interannual U.S. Droughts over the Last Millennium".
 
